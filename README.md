@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzE1NzQxNjEwMjJkMWFkYTU4MDg1NmZkMmI5YzI5NDc2M2QxMGNmOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L8K62iTDkzGX6/giphy.gif" width="180"/>
 <div id="header2" align="center">
     <h2>Hi there, I'm  Yaroslav </h2>
-    <h3>Full Stack Developer</h3>
+    <h3>Front-end developer / Full-stack Developer</h3>
 </div>
 <div id="socials" align="center">
     <a href="https://www.linkedin.com/in/starik061">
