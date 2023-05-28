@@ -1,17 +1,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzE1NzQxNjEwMjJkMWFkYTU4MDg1NmZkMmI5YzI5NDc2M2QxMGNmOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L8K62iTDkzGX6/giphy.gif" width="200"/>
 <div id="header" align="center">
-    <h1>Hi there, I'm  Ivan </h1>
-    <h3>Full Stack Developer from New York</h3>
+    <h1>Hi there, I'm  Yaroslav </h1>
+    <h3>Full Stack Developer</h3>
 </div>
 <div id="socials" align="center">
-    <a href="linkedin-url">
+    <a href="www.linkedin.com/in/starik061">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="twitter-url">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="telegram-url">
+   <a href="https://t.me/starik061">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
