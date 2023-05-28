@@ -13,7 +13,7 @@
   </a>
 </div>
 </div>
-<div id="header" align="center">
+<div id="header-1" align="center">
   [![Profile badge](https://www.codewars.com/users/starik061/badges/small)](https://www.codewars.com/users/starik061)
 </div>
 
