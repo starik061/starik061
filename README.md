@@ -25,6 +25,7 @@
 <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </div>
 <br><br><br>
-</div>
 
-[![Profile badge](https://www.codewars.com/users/starik061/badges/small)](https://www.codewars.com/users/starik061)
+
+<div id="header" align="center">[![Profile badge](https://www.codewars.com/users/starik061/badges/small)](https://www.codewars.com/users/starik061)
+</div>
