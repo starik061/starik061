@@ -27,4 +27,4 @@
 <br><br><br>
 </div>
 
-<!--  [![Profile badge](https://www.codewars.com/users/starik061/badges/small)](https://www.codewars.com/users/starik061) -->
+[![Profile badge](https://www.codewars.com/users/starik061/badges/small)](https://www.codewars.com/users/starik061)
