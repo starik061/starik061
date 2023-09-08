@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzE1NzQxNjEwMjJkMWFkYTU4MDg1NmZkMmI5YzI5NDc2M2QxMGNmOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L8K62iTDkzGX6/giphy.gif" width="180"/>
 <div id="header2" align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Yaroslav" alt="Typing SVG" /></a>
+<!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Yaroslav" alt="Typing SVG" /></a> -->
     <h2>Hi there, I'm  Yaroslav </h2>
     <h3 style="color: red;">Front-end developer (React) / Full-stack Developer</h3>
 </div>
