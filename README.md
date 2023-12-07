@@ -3,7 +3,7 @@
 <div id="header2" align="center">
 <!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Yaroslav" alt="Typing SVG" /></a> -->
     <h2>Hi there, I'm  Yaroslav </h2>
-    <h3 style="color: red;">Front-end developer (React) / Full-stack Developer</h3>
+    <h3 style="color: red;">Front-end developer (Vue/React) / Full-stack Developer</h3>
 </div>
 <div id="socials" align="center">
     <a href="https://www.linkedin.com/in/starik061">
