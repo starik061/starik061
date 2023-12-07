@@ -29,4 +29,4 @@
 
 [![Profile badge](https://www.codewars.com/users/starik061/badges/small)](https://www.codewars.com/users/starik061)
 
-<a href="https://app.daily.dev/starik061"><img src="https://api.daily.dev/devcards/60d3fa16f53a47f6b11dea2ddb1b720e.png?r=m14" width="400" alt="Yaroslav Puhach's Dev Card"/></a>
+<a href="https://app.daily.dev/starik061"><img src="https://github.com/starik061/starik061/blob/main/devcard.svg" width="380" alt="Yaroslav's Dev Card"/></a>
