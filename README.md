@@ -33,5 +33,5 @@
 <br/>
 <a href="https://app.daily.dev/starik061"><img src="https://github.com/starik061/starik061/blob/main/devcard.svg" width="380" alt="Yaroslav's Dev Card"/></a>
 <br/>
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
